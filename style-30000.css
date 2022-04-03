@@ -83,7 +83,7 @@ a{
   border-radius: 10px;
 }
 .thirdphone{
-  background-color: #6b40bc;
+  background-color: #ff652f;
   border-radius: 10px;
 }
 .fourthphone{
@@ -213,6 +213,16 @@ display: inline-block;
 }
 .h3-oneplusnord25g:hover{
   color: #ff6600;
+}
+.price{
+  text-decoration: none;
+}
+.price:hover{
+  color: white;
+}
+.buy-flipkart-amazon{
+  text-align: center;
+  width: 150px;
 }
 .bottom-container{
   background-color: #66BFBF;
